@@ -1,0 +1,3 @@
+Hospital Provider Cost Report:
+
+The Hospital Provider Cost Report dataset provides select measures from the hospital annual cost report. This data includes provider information such as facility characteristics, utilization data, cost and charges by cost center (in total and for Medicare), Medicare settlement data, and financial statement data organized by CMS Certification Number.
